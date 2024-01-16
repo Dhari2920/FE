@@ -156,11 +156,6 @@ export default function UserLogin() {
           <div className="text-center">
             Not registered yet? <Link to={"/user/signup"}>Sign Up</Link>
           </div>
-          <div className="demo">
-            <p className="m-0">For Demo:</p>
-            <p className="m-0">Email: ravi@gmail.com</p>
-            <p className="m-0">password: user@123</p>
-          </div>
         </Col>
       </Row>
       <Dialog
