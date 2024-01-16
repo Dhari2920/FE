@@ -36,7 +36,7 @@ export default function AdminBaseApp({ children }) {
           <span>
             <i className="bx bxs-tachometer icons"></i>
           </span>
-          CRM
+          ZEN
         </div>
         <br></br>
         <a href="#" onClick={() => navigate("/employee/dashboard")}>
