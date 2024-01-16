@@ -91,7 +91,7 @@ export default function UserLogin() {
       )}
       <div className="d-flex justify-content-between">
         <span className="d-flex align-items-center">
-          <h1 style={{ fontWeight: "350" }}>CRM</h1>
+          <h1 style={{ fontWeight: "350" }}>ZEN CLASS</h1>
         </span>
         <span className="d-flex align-items-center">
           <Button
@@ -110,7 +110,7 @@ export default function UserLogin() {
 
         <Col md={4}>
           <h3 style={{ fontWeight: "350" }}>Sign in</h3>
-          <h6 style={{ fontWeight: "350" }}>to access CRM</h6>
+          <h6 style={{ fontWeight: "350" }}>to access ZEN CLASS</h6>
 
           <Form onSubmit={handleSubmit} className="pt-3">
             <Form.Group className="pb-2" controlId="formGroupEmail">
