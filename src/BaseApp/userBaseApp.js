@@ -35,7 +35,7 @@ export default function UserBaseApp({ title, children }) {
           <span>
             <i className="bx bxs-tachometer icons"></i>
           </span>
-          CRM
+          ZEN
         </div>
         <br></br>
         <a href="#" onClick={() => navigate("/user/dashboard")}>
