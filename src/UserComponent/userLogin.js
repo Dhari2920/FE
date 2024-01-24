@@ -94,13 +94,6 @@ export default function UserLogin() {
           <h1 style={{ fontWeight: "350" }}>ZEN CLASS</h1>
         </span>
         <span className="d-flex align-items-center">
-          <Button
-            onClick={() => navigate("/employee/login")}
-            variant="primary"
-            type="submit"
-          >
-            ADMIN SIGN IN
-          </Button>
         </span>
       </div>
       <Row className="justify-content-around align-items-center">
