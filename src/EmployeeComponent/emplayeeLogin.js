@@ -70,7 +70,7 @@ export default function EmployeeLogin() {
       )}
       <div className="d-flex justify-content-between">
         <span className="d-flex align-items-center">
-          <h1 style={{ fontWeight: "350" }}>CRM</h1>
+          <h1 style={{ fontWeight: "350" }}>ZEN CLASS</h1>
         </span>
         <span className="d-flex align-items-center">
           <Button
